@@ -1,0 +1,8 @@
+langchain_openai
+langchain_groq
+python-dotenv
+streamlit
+langchain_experimental
+neo4j==5.19.0
+langchain==0.1.16
+langchain-community==0.0.34
